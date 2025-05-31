@@ -17,7 +17,7 @@ An intelligent multi-agent system that ingests documents in **Email**, **JSON**,
 
 ---
 
-## 🧩 You Must Build
+## 🧩 Build Components
 
 ### 1. 🧠 Classifier Agent
 - Detects document `format` and `business intent`
