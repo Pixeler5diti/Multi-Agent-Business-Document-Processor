@@ -137,10 +137,5 @@ Dynamically triggers actions:
 git clone https://github.com/your-repo/multi-agent-doc-processor
 cd multi-agent-doc-processor
 ```
-## 2. Configure
 
-fill in:
-
-- GEMINI_API_KEY=your-gemini-api-key
-- DATABASE_URL=postgresql://postgres:postgres@db:5432/business_db
 
