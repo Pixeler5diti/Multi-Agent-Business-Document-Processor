@@ -2,6 +2,9 @@
 
 An intelligent multi-agent system that ingests documents in **Email**, **JSON**, and **PDF** formats, classifies their **format and business intent**, routes them to specialized agents, and dynamically triggers follow-up actions like alerts, escalations, or summaries — all backed by **LLM (Gemini)** and **PostgreSQL**.
 
+## Architecure Diagram
+![- visual selection](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/97ebef5984aea29c0a408e23233b02a8990d9ebd/assests/-%20visual%20selection.png)
+
 ---
 
 ## 🚀 Features
