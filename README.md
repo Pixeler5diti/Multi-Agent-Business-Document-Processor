@@ -152,3 +152,5 @@ cd multi-agent-doc-processor
 python main.py
 ```
 
+---
+### Made with love by Author Diti Vasisht <3
