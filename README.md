@@ -5,6 +5,13 @@ An intelligent multi-agent system that ingests documents in **Email**, **JSON**,
 ## Architecure Diagram
 ![- visual selection](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/97ebef5984aea29c0a408e23233b02a8990d9ebd/assests/-%20visual%20selection.png)
 
+## System Preview :
+### Home Page:
+![1](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/8a6b7c9e298acbf4c30fdd006722fdbfbdfbb6ee/assests/1.png)
+
+### Claasification of file and action taken
+![2](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/8a6b7c9e298acbf4c30fdd006722fdbfbdfbb6ee/assests/1.png)
+
 ---
 
 ## 🚀 Features
