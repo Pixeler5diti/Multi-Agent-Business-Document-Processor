@@ -147,5 +147,8 @@ Dynamically triggers actions:
 git clone https://github.com/your-repo/multi-agent-doc-processor
 cd multi-agent-doc-processor
 ```
-
+### 2. Run this on your system
+```
+pyhton main.py
+```
 
