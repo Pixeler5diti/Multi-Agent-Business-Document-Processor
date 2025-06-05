@@ -149,6 +149,6 @@ cd multi-agent-doc-processor
 ```
 ### 2. Run this on your system
 ```
-pyhton main.py
+python main.py
 ```
 
