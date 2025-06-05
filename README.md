@@ -10,7 +10,7 @@ An intelligent multi-agent system that ingests documents in **Email**, **JSON**,
 ![1](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/8a6b7c9e298acbf4c30fdd006722fdbfbdfbb6ee/assests/1.png)
 
 ### Claasification of file and action taken
-![2](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/8a6b7c9e298acbf4c30fdd006722fdbfbdfbb6ee/assests/1.png)
+![2](https://github.com/Pixeler5diti/Multi-Agent-Business-Document-Processor/blob/8a6b7c9e298acbf4c30fdd006722fdbfbdfbb6ee/assests/2.png)
 
 ---
 
